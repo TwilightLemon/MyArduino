@@ -1,0 +1,4 @@
+# ROBOT CONVERSATION
+嘿！如你所见，我是智能AI——Lemon Robot.
+#帮我打开客厅风扇
+好的主人
